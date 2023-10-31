@@ -22,7 +22,9 @@ We strongly encourage the researchers that want to promote their fantastic work 
   - [Retrieval-enhanced LLMs](#retrieval-enhanced-llms)
   - [RAG Instruction Tuning](#rag-instruction-tuning)
   - [RAG In-Context Learning](#rag-in-context-learning)
-
+  - [RAG Embeddings](#rag-embeddings)
+  - [RAG Search](#rag-search)
+  - [RAG Long-text and Memory](#rag-long-text-and-memory)
 
 
 --- 
@@ -52,6 +54,15 @@ ACL 23 – Jul 2023 [[link](https://acl2023-retrieval-lm.github.io/)]
 
 # Papers 
 
+## Survey and Benchmark 
+
+**Benchmarking Large Language Models in Retrieval-Augmented Generation** \
+*Jiawei Chen, Hongyu Lin, Xianpei Han, Le Sun* \
+arXiv 2023. [[Paper](https://arxiv.org/abs/2309.01431)][[Github](https://github.com/chen700564/RGB)] \
+4 Sep 2023 
+
+
+ 
 ## Retrieval Augmented LLMs
 
 **Self-RAG: Learning to Retrieve, Generate, and Critique through Self-Reflection**  
@@ -67,6 +78,7 @@ ICLR 24 – October 23 [[paper](https://openreview.net/forum?id=xw5nxFWMlo)]
 **DSPy: Compiling Declarative Language Model Calls into Self-Improving Pipelines**  
 *Omar Khattab, Arnav Singhvi, Paridhi Maheshwari, Zhiyuan Zhang, Keshav Santhanam, Sri Vardhamanan, Saiful Haq, Ashutosh Sharma, Thomas T. Joshi, Hanna Moazam, Heather Miller, Matei Zaharia, Christopher Potts*  
 arXiv – October 2023 [[paper](https://arxiv.org/abs/2310.03714)] [[code](https://github.com/stanfordnlp/dspy)]
+
 
 
 **Active Retrieval Augmented Generation**  
@@ -102,6 +114,12 @@ ICLR 24 – October 23 [[paper](https://openreview.net/forum?id=4stB7DFLp6)]
 *Ori Ram, Yoav Levine, Itay Dalmedigos, Dor Muhlgay, Amnon Shashua, Kevin Leyton-Brown, Yoav Shoham*  
 AI21 Labs – Jan 2023 [[paper](https://uploads-ssl.webflow.com/60fd4503684b466578c0d307/63c6c20dec4479564db21819_NEW_In_Context_Retrieval_Augmented_Language_Models.pdf)] [[code](https://github.com/AI21Labs/in-context-ralm)]
 
+
+### RAG Embeddings 
+
+**Text Embeddings Reveal (Almost) As Much As Text**
+*John X. Morris, Volodymyr Kuleshov, Vitaly Shmatikov, Alexander M. Rush* 
+EMNLP 2023 - Oct 2023 [[Paper](https://arxiv.org/abs/2310.06816?ref=upstract.com)][[Github](https://github.com/jxmorris12/vec2text)] 
 
 
 
