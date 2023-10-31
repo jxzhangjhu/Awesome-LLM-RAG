@@ -17,7 +17,7 @@ We strongly encourage the researchers that want to promote their fantastic work 
 ## Contents
 
 - [Resources](#resources)
- - [Workshop and Tutorials](#workshop-and-tutorials)
+  - [Workshop and Tutorials](#workshop-and-tutorials)
 - [Papers](#papers)
   - [Retrieval-enhanced LLMs](#retrieval-enhanced-llms)
   - [RAG Instruction Tuning](#rag-instruction-tuning)
