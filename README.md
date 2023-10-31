@@ -122,5 +122,14 @@ AI21 Labs – Jan 2023 [[paper](https://uploads-ssl.webflow.com/60fd4503684b4665
 EMNLP 2023 - Oct 2023 [[Paper](https://arxiv.org/abs/2310.06816?ref=upstract.com)][[Github](https://github.com/jxmorris12/vec2text)] 
 
 
+### RAG Search
+
+### RAG Long-text and Memory 
+
+**Understanding Retrieval Augmentation for Long-Form Question Answering** \
+*Hung-Ting Chen, Fangyuan Xu, Shane A. Arora, Eunsol Choi* \
+arXiv 2023 - Oct 2023 [[Paper](https://arxiv.org/abs/2310.12150)]
+
+
 
 
