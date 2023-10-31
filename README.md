@@ -108,23 +108,23 @@ ICLR 24 – October 23 [[paper](https://openreview.net/forum?id=22OTbutug9)]
 ICLR 24 – October 23 [[paper](https://openreview.net/forum?id=4stB7DFLp6)]
 
 
-### RAG In-Context Learning 
+## RAG In-Context Learning 
 
 **In-Context Retrieval-Augmented Language Models**  
 *Ori Ram, Yoav Levine, Itay Dalmedigos, Dor Muhlgay, Amnon Shashua, Kevin Leyton-Brown, Yoav Shoham*  
 AI21 Labs – Jan 2023 [[paper](https://uploads-ssl.webflow.com/60fd4503684b466578c0d307/63c6c20dec4479564db21819_NEW_In_Context_Retrieval_Augmented_Language_Models.pdf)] [[code](https://github.com/AI21Labs/in-context-ralm)]
 
 
-### RAG Embeddings 
+## RAG Embeddings 
 
 **Text Embeddings Reveal (Almost) As Much As Text** \
 *John X. Morris, Volodymyr Kuleshov, Vitaly Shmatikov, Alexander M. Rush*  \
 EMNLP 2023 - Oct 2023 [[Paper](https://arxiv.org/abs/2310.06816?ref=upstract.com)][[Github](https://github.com/jxmorris12/vec2text)] 
 
 
-### RAG Search
+## RAG Search
 
-### RAG Long-text and Memory 
+## RAG Long-text and Memory 
 
 **Understanding Retrieval Augmentation for Long-Form Question Answering** \
 *Hung-Ting Chen, Fangyuan Xu, Shane A. Arora, Eunsol Choi* \
