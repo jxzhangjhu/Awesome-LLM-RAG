@@ -104,8 +104,8 @@ NeurIPS 2020 - May 2020 [[Paper](https://arxiv.org/abs/2005.11401)]
 ICLR 24 – October 23 [[paper](https://openreview.net/forum?id=22OTbutug9)]
 
 **InstructRetro: Instruction Tuning post Retrieval-Augmented Pretraining**  
-*Anonymous*  
-ICLR 24 – October 23 [[paper](https://openreview.net/forum?id=4stB7DFLp6)]
+*Boxin Wang, Wei Ping, Lawrence McAfee, Peng Xu, Bo Li, Mohammad Shoeybi, Bryan Catanzaro* \
+arXiv -  October 23 [[paper](https://openreview.net/forum?id=4stB7DFLp6)]
 
 
 ## RAG In-Context Learning 
