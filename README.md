@@ -17,8 +17,9 @@ We strongly encourage the researchers that want to promote their fantastic work 
 ## Contents
 
 - [Resources](#resources)
-  - [Workshop and Tutorials](#workshop-and-tutorials)
+  - [Workshops and Tutorials](#workshops-and-tutorials)
 - [Papers](#papers)
+  - [Survey and Benchmark](#survey-end-benchmark)
   - [Retrieval-enhanced LLMs](#retrieval-enhanced-llms)
   - [RAG Instruction Tuning](#rag-instruction-tuning)
   - [RAG In-Context Learning](#rag-in-context-learning)
@@ -63,7 +64,7 @@ arXiv 2023. [[Paper](https://arxiv.org/abs/2309.01431)][[Github](https://github.
 
 
  
-## Retrieval Augmented LLMs
+## Retrieval-enhanced LLMs
 
 **Self-RAG: Learning to Retrieve, Generate, and Critique through Self-Reflection**  
 *Anonymous*  
