@@ -66,6 +66,15 @@ arXiv 2023. [[Paper](https://arxiv.org/abs/2309.01431)][[Github](https://github.
  
 ## Retrieval-enhanced LLMs
 
+**Chain-of-Note: Enhancing Robustness in Retrieval-Augmented Language Models** 
+*Wenhao Yu, Hongming Zhang, Xiaoman Pan, Kaixin Ma, Hongwei Wang, Dong Yu*
+arxiv - Nov 2023 [[Paper](https://arxiv.org/abs/2311.09210#:~:text=15%20Nov%202023%5D-,Chain%2Dof%2DNote%3A%20Enhancing%20Robustness,in%20Retrieval%2DAugmented%20Language%20Models&text=Retrieval%2Daugmented%20language%20models%20(RALMs,by%20leveraging%20external%20knowledge%20sources.)] 
+
+**REST: Retrieval-Based Speculative Decoding** 
+*Zhenyu He, Zexuan Zhong, Tianle Cai, Jason D Lee, Di He* 
+arXiv - Nov 2023 [[Paper](https://arxiv.org/abs/2311.08252#:~:text=We%20introduce%20Retrieval%2DBased%20Speculative,certain%20common%20phases%20and%20patterns.)][[Github](https://github.com/fasterdecoding/rest)]
+
+
 **Self-RAG: Learning to Retrieve, Generate, and Critique through Self-Reflection**  
 *Anonymous*  
 ICLR 24 – October 23 [[paper](https://openreview.net/forum?id=hSyW5go0v8)]
