@@ -66,6 +66,10 @@ arXiv 2023. [[Paper](https://arxiv.org/abs/2309.01431)][[Github](https://github.
  
 ## Retrieval-enhanced LLMs
 
+**Learning to Filter Context for Retrieval-Augmented Generation** \
+*Zhiruo Wang, Jun Araki, Zhengbao Jiang, Md Rizwan Parvez, Graham Neubig* \
+arxiv- Nov 2023 [[Paper](https://arxiv.org/abs/2311.08377)][[Github](https://github.com/zorazrw/filco)] 
+
 **Chain-of-Note: Enhancing Robustness in Retrieval-Augmented Language Models** \
 *Wenhao Yu, Hongming Zhang, Xiaoman Pan, Kaixin Ma, Hongwei Wang, Dong Yu* \
 arxiv - Nov 2023 [[Paper](https://arxiv.org/abs/2311.09210)] 
@@ -80,9 +84,10 @@ arXiv - Nov 2023 [[Paper](https://arxiv.org/abs/2311.08252)][[Github](https://gi
 ICLR 24 – October 23 [[paper](https://openreview.net/forum?id=hSyW5go0v8)]
 
 
-**Retrieval meets Long Context Large Language Models**  
-*Anonymous*  
-ICLR 24 – October 23 [[paper](https://openreview.net/forum?id=xw5nxFWMlo)]
+**Retrieval meets Long Context Large Language Models** \
+*Peng Xu, Wei Ping, Xianchao Wu, Lawrence McAfee, Chen Zhu, Zihan Liu, Sandeep Subramanian, Evelina Bakhturina, Mohammad Shoeybi, Bryan Catanzaro* \
+<!-- ICLR 24 – October 23 [[paper](https://openreview.net/forum?id=xw5nxFWMlo)] -->
+arxiv - Oct 2023 [[Paper](https://arxiv.org/abs/2310.03025)]
 
 
 **DSPy: Compiling Declarative Language Model Calls into Self-Improving Pipelines**  
