@@ -26,6 +26,9 @@ We strongly encourage the researchers that want to promote their fantastic work 
   - [RAG Embeddings](#rag-embeddings)
   - [RAG Search](#rag-search)
   - [RAG Long-text and Memory](#rag-long-text-and-memory)
+  - [RAG Evaluation](#rag-evaluation)
+  - [RAG Application](#rag-application)
+
 
 
 --- 
@@ -148,8 +151,20 @@ arXiv - Oct 2023. [[Paper](https://arxiv.org/abs/2310.19923)][[Model](https://hu
 
 **Understanding Retrieval Augmentation for Long-Form Question Answering** \
 *Hung-Ting Chen, Fangyuan Xu, Shane A. Arora, Eunsol Choi* \
-arXiv 2023 - Oct 2023 [[Paper](https://arxiv.org/abs/2310.12150)]
+arXiv - Oct 2023 [[Paper](https://arxiv.org/abs/2310.12150)]
 
+## RAG Evaluation
+
+**ARES: An Automated Evaluation Framework for Retrieval-Augmented Generation Systems** \
+*Jon Saad-Falcon, Omar Khattab, Christopher Potts, Matei Zaharia* \
+arXiv - Nov 2023. [[Paper](https://arxiv.org/abs/2311.09476)] [[Github](https://github.com/stanford-futuredata/ares)]
+
+
+## RAG Application
+
+**Clinfo.ai: An Open-Source Retrieval-Augmented Large Language Model System for Answering Medical Questions using Scientific Literature** \
+*Alejandro Lozano, Scott L Fleming, Chia-Chun Chiang, Nigam Shah* \
+arXiv - Oct 2023. [[Paper](https://arxiv.org/abs/2310.16146v1)] 
 
 
 
