@@ -27,6 +27,7 @@ We strongly encourage the researchers that want to promote their fantastic work 
   - [RAG Search](#rag-search)
   - [RAG Long-text and Memory](#rag-long-text-and-memory)
   - [RAG Evaluation](#rag-evaluation)
+  - [RAG Optimization](#rag-optimization)
   - [RAG Application](#rag-application)
 
 
@@ -68,10 +69,6 @@ arXiv 2023. [[Paper](https://arxiv.org/abs/2309.01431)][[Github](https://github.
 
  
 ## Retrieval-enhanced LLMs
-
-**Learning to Filter Context for Retrieval-Augmented Generation** \
-*Zhiruo Wang, Jun Araki, Zhengbao Jiang, Md Rizwan Parvez, Graham Neubig* \
-arxiv- Nov 2023 [[Paper](https://arxiv.org/abs/2311.08377)][[Github](https://github.com/zorazrw/filco)] 
 
 **Chain-of-Note: Enhancing Robustness in Retrieval-Augmented Language Models** \
 *Wenhao Yu, Hongming Zhang, Xiaoman Pan, Kaixin Ma, Hongwei Wang, Dong Yu* \
@@ -164,11 +161,38 @@ arXiv - Oct 2023 [[Paper](https://arxiv.org/abs/2310.12150)]
 arXiv - Nov 2023. [[Paper](https://arxiv.org/abs/2311.09476)] [[Github](https://github.com/stanford-futuredata/ares)]
 
 
+
+## RAG Optimization
+
+**Learning to Filter Context for Retrieval-Augmented Generation** \
+*Zhiruo Wang, Jun Araki, Zhengbao Jiang, Md Rizwan Parvez, Graham Neubig* \
+arxiv- Nov 2023 [[Paper](https://arxiv.org/abs/2311.08377)][[Github](https://github.com/zorazrw/filco)] 
+
+
+**Large Language Models Can Be Easily Distracted by Irrelevant Context** \
+*Freda Shi, Xinyun Chen, Kanishka Misra, Nathan Scales, David Dohan, Ed Chi, Nathanael Schärli, Denny Zhou* \
+ICML 2023 - Jan 2023 [[Paper](https://arxiv.org/abs/2302.00093)][[Github](https://github.com/google-research-datasets/GSM-IC)] \
+
+
+**Evidentiality-guided Generation for Knowledge-Intensive NLP Tasks** \
+*Akari Asai, Matt Gardner, Hannaneh Hajishirzi* \
+NAACL 2022 - Dec 2021 [[Paper](https://arxiv.org/abs/2112.08688)][[Github](https://github.com/akariasai/evidentiality_qa)] 
+
+**When Not to Trust Language Models: Investigating Effectiveness of Parametric and Non-Parametric Memories** \
+*Alex Mallen, Akari Asai, Victor Zhong, Rajarshi Das, Daniel Khashabi, Hannaneh Hajishirzi* \
+ACL 2023 - Dec 2022 [[Paper](https://arxiv.org/abs/2212.10511)][[Github](https://github.com/alextmallen/adaptive-retrieval)] 
+
+
+
 ## RAG Application
 
 **Clinfo.ai: An Open-Source Retrieval-Augmented Large Language Model System for Answering Medical Questions using Scientific Literature** \
 *Alejandro Lozano, Scott L Fleming, Chia-Chun Chiang, Nigam Shah* \
 arXiv - Oct 2023. [[Paper](https://arxiv.org/abs/2310.16146v1)] 
+
+**PEARL: Personalizing Large Language Model Writing Assistants with Generation-Calibrated Retrievers** \
+*Sheshera Mysore, Zhuoran Lu, Mengting Wan, Longqi Yang, Steve Menezes, Tina Baghaee, Emmanuel Barajas Gonzalez, Jennifer Neville, Tara Safavi* \
+arXiv - Nov 2023. [[Paper](https://arxiv.org/abs/2311.09180)] 
 
 
 
