@@ -135,6 +135,10 @@ AI21 Labs – Jan 2023 [[paper](https://uploads-ssl.webflow.com/60fd4503684b4665
 
 ## RAG Embeddings 
 
+**RegaVAE: A Retrieval-Augmented Gaussian Mixture Variational Auto-Encoder for Language Modeling** \
+*Jingcheng Deng, Liang Pang, Huawei Shen, Xueqi Cheng* \
+EMNLP 2023 - Oct 2023 [[Paper](https://arxiv.org/abs/2310.10567)][[Github](https://github.com/TrustedLLM/RegaVAE)] \
+
 **Text Embeddings Reveal (Almost) As Much As Text** \
 *John X. Morris, Volodymyr Kuleshov, Vitaly Shmatikov, Alexander M. Rush*  \
 EMNLP 2023 - Oct 2023 [[Paper](https://arxiv.org/abs/2310.06816?ref=upstract.com)][[Github](https://github.com/jxmorris12/vec2text)] 
