@@ -85,7 +85,7 @@ ICLR 24 – October 23 [[paper](https://openreview.net/forum?id=hSyW5go0v8)]
 
 
 **Retrieval meets Long Context Large Language Models** \
-*Peng Xu, Wei Ping, Xianchao Wu, Lawrence McAfee, Chen Zhu, Zihan Liu, Sandeep Subramanian, Evelina Bakhturina, Mohammad Shoeybi, Bryan Catanzaro* \
+*Peng Xu, Wei Ping, Xianchao Wu, Lawrence McAfee, Chen Zhu, Zihan Liu, Sandeep Subramanian, Evelina Bakhturina, Mohammad Shoeybi, Bryan Catanzaro* 
 <!-- ICLR 24 – October 23 [[paper](https://openreview.net/forum?id=xw5nxFWMlo)] -->
 arxiv - Oct 2023 [[Paper](https://arxiv.org/abs/2310.03025)]
 
@@ -134,7 +134,7 @@ AI21 Labs – Jan 2023 [[paper](https://uploads-ssl.webflow.com/60fd4503684b4665
 
 **RegaVAE: A Retrieval-Augmented Gaussian Mixture Variational Auto-Encoder for Language Modeling** \
 *Jingcheng Deng, Liang Pang, Huawei Shen, Xueqi Cheng* \
-EMNLP 2023 - Oct 2023 [[Paper](https://arxiv.org/abs/2310.10567)][[Github](https://github.com/TrustedLLM/RegaVAE)] \
+EMNLP 2023 - Oct 2023 [[Paper](https://arxiv.org/abs/2310.10567)][[Github](https://github.com/TrustedLLM/RegaVAE)] 
 
 **Text Embeddings Reveal (Almost) As Much As Text** \
 *John X. Morris, Volodymyr Kuleshov, Vitaly Shmatikov, Alexander M. Rush*  \
@@ -171,7 +171,7 @@ arxiv- Nov 2023 [[Paper](https://arxiv.org/abs/2311.08377)][[Github](https://git
 
 **Large Language Models Can Be Easily Distracted by Irrelevant Context** \
 *Freda Shi, Xinyun Chen, Kanishka Misra, Nathan Scales, David Dohan, Ed Chi, Nathanael Schärli, Denny Zhou* \
-ICML 2023 - Jan 2023 [[Paper](https://arxiv.org/abs/2302.00093)][[Github](https://github.com/google-research-datasets/GSM-IC)] \
+ICML 2023 - Jan 2023 [[Paper](https://arxiv.org/abs/2302.00093)][[Github](https://github.com/google-research-datasets/GSM-IC)] 
 
 
 **Evidentiality-guided Generation for Knowledge-Intensive NLP Tasks** \
