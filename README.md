@@ -95,8 +95,7 @@ arXiv - Oct 2023 [[Ppaer](https://arxiv.org/abs/2310.05002)]
 
 
 **Retrieval meets Long Context Large Language Models** \
-*Peng Xu, Wei Ping, Xianchao Wu, Lawrence McAfee, Chen Zhu, Zihan Liu, Sandeep Subramanian, Evelina Bakhturina, Mohammad Shoeybi, Bryan Catanzaro* 
-<!-- ICLR 24 – October 23 [[paper](https://openreview.net/forum?id=xw5nxFWMlo)] -->
+*Peng Xu, Wei Ping, Xianchao Wu, Lawrence McAfee, Chen Zhu, Zihan Liu, Sandeep Subramanian, Evelina Bakhturina, Mohammad Shoeybi, Bryan Catanzaro* \
 arxiv - Oct 2023 [[Paper](https://arxiv.org/abs/2310.03025)]
 
 
