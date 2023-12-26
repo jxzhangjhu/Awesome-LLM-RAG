@@ -70,6 +70,12 @@ arXiv 2023. [[Paper](https://arxiv.org/abs/2309.01431)][[Github](https://github.
  
 ## Retrieval-enhanced LLMs
 
+<!-- 
+**Active Retrieval Augmented Generation** \
+*Zhengbao Jiang, Frank F. Xu, Luyu Gao, Zhiqing Sun, Qian Liu, Jane Dwivedi-Yu, Yiming Yang, Jamie Callan, Graham Neubig* \
+EMNLP 2023 - May 2023 [[Paper](https://arxiv.org/abs/2305.06983)][[Github](https://github.com/jzbjyb/flare)] \
+ -->
+
 **Chain-of-Note: Enhancing Robustness in Retrieval-Augmented Language Models** \
 *Wenhao Yu, Hongming Zhang, Xiaoman Pan, Kaixin Ma, Hongwei Wang, Dong Yu* \
 arxiv - Nov 2023 [[Paper](https://arxiv.org/abs/2311.09210)] 
@@ -81,7 +87,11 @@ arXiv - Nov 2023 [[Paper](https://arxiv.org/abs/2311.08252)][[Github](https://gi
 
 **Self-RAG: Learning to Retrieve, Generate, and Critique through Self-Reflection**  
 *Anonymous*  
-ICLR 24 – October 23 [[paper](https://openreview.net/forum?id=hSyW5go0v8)]
+ICLR 24 – Oct 2023 [[paper](https://openreview.net/forum?id=hSyW5go0v8)]
+
+**Self-Knowledge Guided Retrieval Augmentation for Large Language Models** \
+*Yile Wang, Peng Li, Maosong Sun, Yang Liu* \
+arXiv - Oct 2023 [[Ppaer](https://arxiv.org/abs/2310.05002)]
 
 
 **Retrieval meets Long Context Large Language Models** \
@@ -92,8 +102,7 @@ arxiv - Oct 2023 [[Paper](https://arxiv.org/abs/2310.03025)]
 
 **DSPy: Compiling Declarative Language Model Calls into Self-Improving Pipelines**  
 *Omar Khattab, Arnav Singhvi, Paridhi Maheshwari, Zhiyuan Zhang, Keshav Santhanam, Sri Vardhamanan, Saiful Haq, Ashutosh Sharma, Thomas T. Joshi, Hanna Moazam, Heather Miller, Matei Zaharia, Christopher Potts*  
-arXiv – October 2023 [[paper](https://arxiv.org/abs/2310.03714)] [[code](https://github.com/stanfordnlp/dspy)]
-
+arXiv – Oct 2023 [[paper](https://arxiv.org/abs/2310.03714)] [[code](https://github.com/stanfordnlp/dspy)]
 
 
 **Active Retrieval Augmented Generation**  
@@ -116,11 +125,11 @@ NeurIPS 2020 - May 2020 [[Paper](https://arxiv.org/abs/2005.11401)]
 
 **RA-DIT: Retrieval-Augmented Dual Instruction Tuning**  
 *Anonymous*  
-ICLR 24 – October 23 [[paper](https://openreview.net/forum?id=22OTbutug9)]
+ICLR 24 – Oct 23 [[paper](https://openreview.net/forum?id=22OTbutug9)]
 
 **InstructRetro: Instruction Tuning post Retrieval-Augmented Pretraining**  
 *Boxin Wang, Wei Ping, Lawrence McAfee, Peng Xu, Bo Li, Mohammad Shoeybi, Bryan Catanzaro* \
-arXiv -  October 23 [[paper](https://openreview.net/forum?id=4stB7DFLp6)]
+arXiv -  Oct 23 [[paper](https://openreview.net/forum?id=4stB7DFLp6)]
 
 
 ## RAG In-Context Learning 
@@ -185,6 +194,11 @@ ACL 2023 - Dec 2022 [[Paper](https://arxiv.org/abs/2212.10511)][[Github](https:/
 
 
 ## RAG Application
+
+**Deficiency of Large Language Models in Finance: An Empirical Examination of Hallucination** \
+*Haoqiang Kang, Xiao-Yang Liu* \
+arXiv - Nov 2023 [[Paper](https://arxiv.org/abs/2311.15548)] 
+
 
 **Clinfo.ai: An Open-Source Retrieval-Augmented Large Language Model System for Answering Medical Questions using Scientific Literature** \
 *Alejandro Lozano, Scott L Fleming, Chia-Chun Chiang, Nigam Shah* \
