@@ -24,6 +24,7 @@ We strongly encourage the researchers that want to promote their fantastic work 
   - [RAG Instruction Tuning](#rag-instruction-tuning)
   - [RAG In-Context Learning](#rag-in-context-learning)
   - [RAG Embeddings](#rag-embeddings)
+  - [RAG Simulators](#rag-simulators)
   - [RAG Search](#rag-search)
   - [RAG Long-text and Memory](#rag-long-text-and-memory)
   - [RAG Evaluation](#rag-evaluation)
@@ -152,7 +153,11 @@ EMNLP 2023 - Oct 2023 [[Paper](https://arxiv.org/abs/2310.06816?ref=upstract.com
 *Michael Günther, Jackmin Ong, Isabelle Mohr, Alaeddine Abdessalem, Tanguy Abel, Mohammad Kalim Akram, Susana Guzman, Georgios Mastrapas, Saba Sturua, Bo Wang, Maximilian Werk, Nan Wang, Han Xiao* \
 arXiv - Oct 2023. [[Paper](https://arxiv.org/abs/2310.19923)][[Model](https://huggingface.co/jinaai/jina-embeddings-v2-small-en)] 
 
+## RAG Simulators
 
+**KAUCUS: Knowledge Augmented User Simulators for Training Language Model Assistants** \
+*Kaustubh D. Dhole* \
+Simulation of Conversational Intelligence in Chat, EACL 2024 [[Paper](https://arxiv.org/abs/2401.16454)]
 
 ## RAG Search
 
