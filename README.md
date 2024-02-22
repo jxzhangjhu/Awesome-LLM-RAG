@@ -54,8 +54,9 @@ SIGIR 23 – Jul 2023 [[link](https://coda.io/@sigir/gen-ir)]
 *Akari Asai,	Sewon Min,	Zexuan Zhong,	Danqi Chen*  
 ACL 23 – Jul 2023 [[link](https://acl2023-retrieval-lm.github.io/)]
 
-
-
+**Become a Generative AI Developer**
+*Richie Cotton, Olivier Mertens, Korey Stegared-Pace, James Briggs, Vincent Vankrunkelsven, Alara Dirik, Jacob Marquez, Priyanka Asnani*
+DataCamp [[link](https://www.datacamp.com/ai-code-alongs)]
 
 # Papers 
 
