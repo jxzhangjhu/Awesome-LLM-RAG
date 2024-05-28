@@ -164,6 +164,10 @@ Simulation of Conversational Intelligence in Chat, EACL 2024 [[Paper](https://ar
 
 ## RAG Long-text and Memory 
 
+**HippoRAG: Neurobiologically Inspired Long-Term Memory for Large Language Models** \
+*Bernal Jiménez Gutiérrez, Yiheng Shu, Yu Gu, Michihiro Yasunaga, Yu Su* \
+arXiv - May 2024 [[paper](https://arxiv.org/abs/2405.14831)] [[GitHub](https://github.com/OSU-NLP-Group/HippoRAG)]
+
 **Understanding Retrieval Augmentation for Long-Form Question Answering** \
 *Hung-Ting Chen, Fangyuan Xu, Shane A. Arora, Eunsol Choi* \
 arXiv - Oct 2023 [[Paper](https://arxiv.org/abs/2310.12150)]
