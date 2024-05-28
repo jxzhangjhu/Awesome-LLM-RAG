@@ -105,6 +105,9 @@ arxiv - Oct 2023 [[Paper](https://arxiv.org/abs/2310.03025)]
 *Omar Khattab, Arnav Singhvi, Paridhi Maheshwari, Zhiyuan Zhang, Keshav Santhanam, Sri Vardhamanan, Saiful Haq, Ashutosh Sharma, Thomas T. Joshi, Hanna Moazam, Heather Miller, Matei Zaharia, Christopher Potts*  
 arXiv – Oct 2023 [[paper](https://arxiv.org/abs/2310.03714)] [[code](https://github.com/stanfordnlp/dspy)]
 
+**Adaptive Chameleon  or Stubborn Sloth: Revealing the Behavior of Large Language Models in Knowledge Conflicts**  
+*Jian Xie, Kai Zhang, Jiangjie Chen, Renze Lou, Yu Su*  
+ICLR 24 – May 2023 [[paper](https://arxiv.org/abs/2305.13300)] [[code](https://github.com/OSU-NLP-Group/LLM-Knowledge-Conflict)]
 
 **Active Retrieval Augmented Generation**  
 *Zhengbao Jiang, Frank F. Xu, Luyu Gao, Zhiqing Sun, Qian Liu, Jane Dwivedi-Yu, Yiming Yang, Jamie Callan, Graham Neubig*  
