@@ -10,7 +10,7 @@
 
 
 
-This repo aims to record advanced papers of Retrieval Agumented Generation (RAG) in LLMs.
+This repo aims to record advanced papers on Retrieval Augmented Generation (RAG) in LLMs.
 
 We strongly encourage the researchers that want to promote their fantastic work to the LLM RAG to make pull request to update their paper's information!
 
