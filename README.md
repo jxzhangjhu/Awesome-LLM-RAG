@@ -78,6 +78,11 @@ arXiv 2023. [[Paper](https://arxiv.org/abs/2309.01431)][[Github](https://github.
 EMNLP 2023 - May 2023 [[Paper](https://arxiv.org/abs/2305.06983)][[Github](https://github.com/jzbjyb/flare)] \
  -->
 
+ 
+**DFA-RAG: Conversational Semantic Router for Large Language Model with Definite Finite Automaton**  \
+Yiyou Sun, Junjie Hu, Wei Cheng, Haifeng Chen \
+ICML 24 – Feb 2024 [[paper](https://arxiv.org/abs/2402.04411)]
+
 **Chain-of-Note: Enhancing Robustness in Retrieval-Augmented Language Models** \
 *Wenhao Yu, Hongming Zhang, Xiaoman Pan, Kaixin Ma, Hongwei Wang, Dong Yu* \
 arxiv - Nov 2023 [[Paper](https://arxiv.org/abs/2311.09210)] 
