@@ -80,7 +80,11 @@ arXiv 2023. [[Paper](https://arxiv.org/abs/2309.01431)][[Github](https://github.
 *Zhengbao Jiang, Frank F. Xu, Luyu Gao, Zhiqing Sun, Qian Liu, Jane Dwivedi-Yu, Yiming Yang, Jamie Callan, Graham Neubig* \
 EMNLP 2023 - May 2023 [[Paper](https://arxiv.org/abs/2305.06983)][[Github](https://github.com/jzbjyb/flare)] \
  -->
- 
+
+**Improving Retrieval Augmented Language Model with Self-Reasoning** \
+Yuan Xia, Jingbo Zhou, Zhenhui Shi, Jun Chen, Haifeng Huang \  
+AAAI 25 – Mar 2025 [[paper](https://arxiv.org/abs/2407.19813)]
+
 **Adaptive Retrieval without Self-Knowledge? Bringing Uncertainty Back Home**  \
 Viktor Moskvoretskii, Maria Lysyuk, Mikhail Salnikov, Nikolay Ivanov, Sergey Pletenev, Daria Galimzianova, Nikita Krayko, Vasily Konovalov, Irina Nikishina, Alexander Panchenko \
 arxiv – Jan 2025 [[paper](https://arxiv.org/abs/2501.12835)]
