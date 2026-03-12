@@ -21,6 +21,7 @@ We strongly encourage the researchers that want to promote their fantastic work 
 
 - [Resources](#resources)
   - [Workshops and Tutorials](#workshops-and-tutorials)
+  - [Books](#books)
 - [Papers](#papers)
   - [Survey and Benchmark](#survey-and-benchmark)
   - [Retrieval-enhanced LLMs](#retrieval-enhanced-llms)
@@ -61,6 +62,36 @@ ACL 23 – Jul 2023 [[link](https://acl2023-retrieval-lm.github.io/)]
 **Become a Generative AI Developer**
 *Richie Cotton, Olivier Mertens, Korey Stegared-Pace, James Briggs, Vincent Vankrunkelsven, Alara Dirik, Jacob Marquez, Priyanka Asnani*
 DataCamp [[link](https://www.datacamp.com/ai-code-alongs)]
+
+## Books
+
+**Build a Large Language Model (From Scratch)**  
+*Sebastian Raschka*  
+Manning Publications - Sep 2024 [[link](https://www.manning.com/books/build-a-large-language-model-from-scratch)]
+
+**Build a Reasoning Model (From Scratch)**  
+*Sebastian Raschka*  
+Manning Publications - Aug 2025 [[link](https://www.manning.com/books/build-a-reasoning-model-from-scratch)]
+
+**Retrieval Augmented Generation, The Seminal Papers**  
+*Ben Auffarth*  
+Manning Publications - Mar 2026 [[link](https://www.manning.com/books/retrieval-augmented-generation-the-seminal-papers)]
+
+**A Simple Guide to Retrieval Augmented Generation**  
+*Abhinav Kimothi*  
+Manning Publications - Jun 2025 [[link](https://www.manning.com/books/a-simple-guide-to-retrieval-augmented-generation)]
+
+**Build an Advanced RAG Application (From Scratch)**  
+*Hamza Farooq*  
+Manning Publications - Oct 2024 [[link](https://www.manning.com/books/build-an-advanced-rag-application-from-scratch)]
+
+**Enterprise RAG**  
+*Tyler Suard and Darshil Modi*  
+Manning Publications - Mar 2025 [[link](https://www.manning.com/books/enterprise-rag)]
+
+**Essential GraphRAG**  
+*"Tomaž Bratanič and Oskar Hane"*  
+Manning Publications - Jul 2025 [[link](https://www.manning.com/books/essential-graphrag)]
 
 # Papers 
 
