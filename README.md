@@ -196,6 +196,9 @@ arXiv - Oct 2023 [[Paper](https://arxiv.org/abs/2310.12150)]
 *Jon Saad-Falcon, Omar Khattab, Christopher Potts, Matei Zaharia* \
 arXiv - Nov 2023. [[Paper](https://arxiv.org/abs/2311.09476)] [[Github](https://github.com/stanford-futuredata/ares)]
 
+**Evaluation and Alignment, The Seminal Papers** \
+*Hanchung Leea* \
+Manning - Mar 2026. [[Book](https://www.manning.com/books/evaluation-and-alignment-the-seminal-papers)] 
 
 
 ## RAG Optimization
