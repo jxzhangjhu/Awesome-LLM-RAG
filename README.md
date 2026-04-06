@@ -41,6 +41,7 @@ We strongly encourage the researchers that want to promote their fantastic work 
 
 # Resources 
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for Claude Code multi-agent orchestration with retrieval-augmented generation patterns. MIT licensed.
 ## Workshops and Tutorials
 
 **Personalized Generative AI**  
