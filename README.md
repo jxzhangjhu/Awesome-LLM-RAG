@@ -212,7 +212,9 @@ Simulation of Conversational Intelligence in Chat, EACL 2024 [[Paper](https://ar
 
 ## RAG Search
 
-## RAG Long-text and Memory 
+## RAG Long-text and Memory
+
+- [Cortex](https://github.com/SKULLFIRE07/cortex-memory) - Persistent AI memory for coding assistants. Auto-captures decisions, patterns, and context. VSCode extension + CLI + MCP server. Free.
 
 **HippoRAG: Neurobiologically Inspired Long-Term Memory for Large Language Models** \
 *Bernal Jiménez Gutiérrez, Yiheng Shu, Yu Gu, Michihiro Yasunaga, Yu Su* \
