@@ -214,6 +214,10 @@ Simulation of Conversational Intelligence in Chat, EACL 2024 [[Paper](https://ar
 
 ## RAG Long-text and Memory
 
+**ComoRAG: A Cognitive-Inspired Memory-Organized RAG for Stateful Long Narrative Reasoning** \                    
+*Juyuan Wang, Rongchen Zhao, Wei Wei, Yufeng Wang, Mo Yu, Jie Zhou, Jin Xu, Liyan Xu* \                            
+AAAI 2026 - Aug 2025 [[paper](https://arxiv.org/abs/2508.10419)] [[GitHub](https://github.com/EternityJune25/ComoRAG)]
+
 - [Cortex](https://github.com/SKULLFIRE07/cortex-memory) - Persistent AI memory for coding assistants. Auto-captures decisions, patterns, and context. VSCode extension + CLI + MCP server. Free.
 
 **HippoRAG: Neurobiologically Inspired Long-Term Memory for Large Language Models** \
