@@ -43,6 +43,7 @@ We strongly encourage the researchers that want to promote their fantastic work 
 # Resources 
 
 - [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for Claude Code multi-agent orchestration with retrieval-augmented generation patterns. MIT licensed.
+- [CCHub](https://github.com/Moresl/cchub) - A desktop control panel for the Claude Code / Codex / Gemini CLI ecosystem. Manage MCP servers, config profiles, agent skills, CLAUDE.md, hooks, and workflow templates from a single Tauri app (Windows / macOS / Linux).
 ## Workshops and Tutorials
 
 **Personalized Generative AI**  
