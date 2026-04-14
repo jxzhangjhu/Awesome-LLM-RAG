@@ -19,6 +19,7 @@ We strongly encourage the researchers that want to promote their fantastic work 
 
 ## Contents
 
+- [Bernstein](https://github.com/chernistry/bernstein) - Multi-agent orchestrator with RAG-enhanced task planning. Decomposes goals using context from codebase analysis.
 - [Resources](#resources)
   - [Workshops and Tutorials](#workshops-and-tutorials)
   - [Books](#books)
