@@ -217,6 +217,8 @@ Simulation of Conversational Intelligence in Chat, EACL 2024 [[Paper](https://ar
 
 ## RAG Search
 
+- [Not Human Search](https://nothumansearch.ai) - Search engine and MCP server for discovering AI-native tools. 8,600+ sites indexed with agentic capability scoring. Useful for RAG pipelines that need to discover and integrate AI tools.
+
 ## RAG Long-text and Memory
 
 **ComoRAG: A Cognitive-Inspired Memory-Organized RAG for Stateful Long Narrative Reasoning** \                    
