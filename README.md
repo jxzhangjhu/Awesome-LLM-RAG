@@ -44,9 +44,9 @@ We strongly encourage the researchers that want to promote their fantastic work 
 
 - [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for Claude Code multi-agent orchestration with retrieval-augmented generation patterns. MIT licensed.
 - [CCHub](https://github.com/Moresl/cchub) - A desktop control panel for the Claude Code / Codex / Gemini CLI ecosystem. Manage MCP servers, config profiles, agent skills, CLAUDE.md, hooks, and workflow templates from a single Tauri app (Windows / macOS / Linux).
+- [ChunkTuner](https://github.com/shantanu-deshmukh/chunktuner) - Open-source Python/CLI/MCP tooling to benchmark chunking strategies for RAG and recommend configurations using retrieval metrics (optional RAGAS).
+
 ## Workshops and Tutorials
-
-
 - [Agent Shadow Brain](https://github.com/theihtisham/agent-shadow-brain) - Self-evolving AI coding intelligence with infinite memory (TurboQuant), genetic algorithm self-evolution, predictive bug detection, PageRank knowledge graphs, swarm intelligence, and adversarial defense.
 - [Omni Skills Forge](https://github.com/theihtisham/omni-skills-forge) - 50,000+ curated AI agent skills for Claude Code, Cursor, Copilot, Windsurf, Cline. Visual dashboard, one-click install, skill doctor, auto-update.
 **Personalized Generative AI**  
