@@ -35,6 +35,7 @@ We strongly encourage the researchers that want to promote their fantastic work 
   - [RAG Evaluation](#rag-evaluation)
   - [RAG Optimization](#rag-optimization)
   - [RAG Application](#rag-application)
+  - [RAG for Missing Modalities](#rag-for-missing-modalities)
 
 
 
@@ -286,3 +287,7 @@ arXiv - Nov 2023. [[Paper](https://arxiv.org/abs/2311.09180)]
 
 
 
+## RAG for Missing Modalities
+**MissRAG: Addressing the Missing Modality Challenge in Multimodal Large Language Models** \
+*Vittorio Pipoli, Alessia Saporita, Federico Bolelli, Marcella Cornia, Lorenzo Baraldi, Costantino Grana, Rita Cucchiara, Elisa Ficarra* \
+ICCV 2025 - Oct 2025 [[Paper](https://openaccess.thecvf.com/content/ICCV2025/papers/Pipoli_MissRAG_Addressing_the_Missing_Modality_Challenge_in_Multimodal_Large_Language_ICCV_2025_paper.pdf)] 
