@@ -100,6 +100,12 @@ Manning Publications - Mar 2025 [[link](https://www.manning.com/books/enterprise
 *"Tomaž Bratanič and Oskar Hane"*  
 Manning Publications - Jul 2025 [[link](https://www.manning.com/books/essential-graphrag)]
 
+**Advanced RAG Patterns** (Free eBook)  
+*Future AGI* [[link](https://futureagi.com/ebooks/advanced-rag-patterns/)]
+
+**The Agentic RAG Playbook** (Free eBook)  
+*Future AGI* [[link](https://futureagi.com/ebooks/mastering-agentic-rag/)]
+
 # Papers 
 
 ## Survey and Benchmark 
