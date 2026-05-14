@@ -247,6 +247,9 @@ arXiv - Nov 2023. [[Paper](https://arxiv.org/abs/2311.09476)] [[Github](https://
 *Hanchung Leea* \
 Manning - Mar 2026. [[Book](https://www.manning.com/books/evaluation-and-alignment-the-seminal-papers)] 
 
+**ai-evaluation: Open-Source LLM/RAG Evaluation Framework** \
+*Future AGI* [[Github](https://github.com/future-agi/ai-evaluation)] - 50+ metrics, LLM-as-Judge, guardrail scanners (jailbreak, PII, injection), and AutoEval pipelines with CI/CD support.
+
 
 ## RAG Optimization
 
