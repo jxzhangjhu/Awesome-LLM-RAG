@@ -106,6 +106,10 @@ Manning Publications - Jul 2025 [[link](https://www.manning.com/books/essential-
 **The Agentic RAG Playbook** (Free eBook)  
 *Future AGI* [[link](https://futureagi.com/ebooks/mastering-agentic-rag/)]
 
+**Building LLM Applications with DSPy**  
+*Serj Smorodinsky and William Brett Kennedy*  
+Manning Publications - May 2026 [[link](https://www.manning.com/books/building-llm-applications-with-dspy)]
+
 # Papers 
 
 ## Survey and Benchmark 
