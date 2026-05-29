@@ -238,6 +238,7 @@ AAAI 2026 - Aug 2025 [[paper](https://arxiv.org/abs/2508.10419)] [[GitHub](https
 
 - [Cortex](https://github.com/SKULLFIRE07/cortex-memory) - Persistent AI memory for coding assistants. Auto-captures decisions, patterns, and context. VSCode extension + CLI + MCP server. Free.
 - [Agent Brain](https://github.com/kaderosio/agent-brain) - 7-layer cognitive memory system for AI agents with perception gate, dream cycle, and predictive capabilities. Built with FastAPI, PostgreSQL/pgvector. Self-hostable.
+- [Statewave](https://github.com/smaramwbc/statewave) - Open-source memory runtime for AI agents. Compiles events into deterministic, provenance-tagged context bundles instead of query-time retrieval. Apache-2.0, self-hostable on Postgres + pgvector.
 
 **HippoRAG: Neurobiologically Inspired Long-Term Memory for Large Language Models** \
 *Bernal Jiménez Gutiérrez, Yiheng Shu, Yu Gu, Michihiro Yasunaga, Yu Su* \
