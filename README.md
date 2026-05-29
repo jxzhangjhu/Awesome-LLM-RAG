@@ -216,6 +216,10 @@ EMNLP 2023 - Oct 2023 [[Paper](https://arxiv.org/abs/2310.06816?ref=upstract.com
 *Michael Günther, Jackmin Ong, Isabelle Mohr, Alaeddine Abdessalem, Tanguy Abel, Mohammad Kalim Akram, Susana Guzman, Georgios Mastrapas, Saba Sturua, Bo Wang, Maximilian Werk, Nan Wang, Han Xiao* \
 arXiv - Oct 2023. [[Paper](https://arxiv.org/abs/2310.19923)][[Model](https://huggingface.co/jinaai/jina-embeddings-v2-small-en)] 
 
+**EmbedGuard: Cross-Layer Detection and Provenance Attestation for Adversarial Embedding Attacks in RAG Systems** \
+*Neeraj Patty* \
+IJCESEN 2026. [[Paper](https://doi.org/10.22399/ijcesen.4869)][[Github](https://github.com/neerazz/embedguard)] - MIT-licensed defense operating across embedding generation, retrieval, and generation layers with cryptographic provenance attestation.
+
 ## RAG Simulators
 
 **KAUCUS: Knowledge Augmented User Simulators for Training Language Model Assistants** \
@@ -255,6 +259,10 @@ Manning - Mar 2026. [[Book](https://www.manning.com/books/evaluation-and-alignme
 
 **ai-evaluation: Open-Source LLM/RAG Evaluation Framework** \
 *Future AGI* [[Github](https://github.com/future-agi/ai-evaluation)] - 50+ metrics, LLM-as-Judge, guardrail scanners (jailbreak, PII, injection), and AutoEval pipelines with CI/CD support.
+
+**EmbedGuard: Cross-Layer Detection and Provenance Attestation for Adversarial Embedding Attacks in RAG Systems** \
+*Neeraj Patty* \
+IJCESEN 2026. [[Paper](https://doi.org/10.22399/ijcesen.4869)][[Github](https://github.com/neerazz/embedguard)] - Evaluates and defends RAG pipelines against adversarial embedding attacks via cross-layer detection and cryptographic provenance attestation. MIT-licensed.
 
 
 ## RAG Optimization
