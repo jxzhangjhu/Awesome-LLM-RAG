@@ -50,6 +50,7 @@ We strongly encourage the researchers that want to promote their fantastic work 
 ## Workshops and Tutorials
 - [Agent Shadow Brain](https://github.com/theihtisham/agent-shadow-brain) - Self-evolving AI coding intelligence with infinite memory (TurboQuant), genetic algorithm self-evolution, predictive bug detection, PageRank knowledge graphs, swarm intelligence, and adversarial defense.
 - [Omni Skills Forge](https://github.com/theihtisham/omni-skills-forge) - 50,000+ curated AI agent skills for Claude Code, Cursor, Copilot, Windsurf, Cline. Visual dashboard, one-click install, skill doctor, auto-update.
+- [RAG Techniques](https://github.com/NirDiamant/RAG_Techniques) - 35+ runnable Jupyter-notebook tutorials covering advanced RAG techniques: chunking, query transformation/HyDE, reranking, self-RAG, graph RAG, and evaluation.
 **Personalized Generative AI**  
 *Zheng Chen, Ziyan Jiang, Fan Yang, Zhankui He, Yupeng Hou, Eunah Cho, Julian McAuley, Aram Galstyan, Xiaohua Hu, Jie Yang*  
 CIKM 23 – Oct 2023 [[link](https://sites.google.com/view/pgai2023/home)]
