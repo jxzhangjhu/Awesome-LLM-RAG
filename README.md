@@ -111,6 +111,10 @@ Manning Publications - Jul 2025 [[link](https://www.manning.com/books/essential-
 *Serj Smorodinsky and William Brett Kennedy*  
 Manning Publications - May 2026 [[link](https://www.manning.com/books/building-llm-applications-with-dspy)]
 
+**RAG Made Simple: The Complete Visual Guide to Retrieval-Augmented Generation**  
+*Nir Diamant*  
+DiamantAI - 2025 [[link](https://diamant-ai.com/rag-made-simple)]
+
 # Papers 
 
 ## Survey and Benchmark 
