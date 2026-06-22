@@ -127,6 +127,11 @@ DiamantAI - 2025 [[link](https://diamant-ai.com/rag-made-simple)]
 arXiv 2023. [[Paper](https://arxiv.org/abs/2309.01431)][[Github](https://github.com/chen700564/RGB)] \
 4 Sep 2023 
 
+**ESGenius: Benchmarking LLMs on Environmental, Social, and Governance (ESG) and Sustainability Knowledge** \
+*Chaoyue He, Xin Zhou, et al.* \
+EMNLP 2025. [[Paper](https://aclanthology.org/2025.emnlp-main.739/)][[Github](https://github.com/ANGEL-NTU/ESGenius)][[Dataset](https://huggingface.co/datasets/cy0307/ESGenius)] \
+2 Jun 2025 
+
 
  
 ## Retrieval-enhanced LLMs
