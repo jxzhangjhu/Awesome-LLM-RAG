@@ -216,6 +216,10 @@ AI21 Labs – Jan 2023 [[paper](https://uploads-ssl.webflow.com/60fd4503684b4665
 
 ## RAG Embeddings 
 
+**ReinPool: Reinforcement Learning Pooling Multi-Vector Embeddings for Retrieval System** \
+*Sungguk Cha, DongWook Kim, Mintae Kim, Youngsub Han, Byoung-Ki Jeon, Sangyeob Lee* \
+arXiv - Jan 2026 [[Paper](https://arxiv.org/abs/2601.07125)]
+
 **RegaVAE: A Retrieval-Augmented Gaussian Mixture Variational Auto-Encoder for Language Modeling** \
 *Jingcheng Deng, Liang Pang, Huawei Shen, Xueqi Cheng* \
 EMNLP 2023 - Oct 2023 [[Paper](https://arxiv.org/abs/2310.10567)][[Github](https://github.com/TrustedLLM/RegaVAE)] 
@@ -264,6 +268,10 @@ arXiv - Oct 2023 [[Paper](https://arxiv.org/abs/2310.12150)]
 
 ## RAG Evaluation
 
+**Do Current Retrievers Cover All the Evidence? A Controlled Study of Conjunctive Cross-Page Retrieval** \
+*Sungguk Cha, DongWook Kim, Mintae Kim, Youngsub Han, Byoung-Ki Jeon, Sangyeob Lee* \
+arXiv - Jul 2026 [[Paper](https://arxiv.org/abs/2607.24165)]
+
 **ARES: An Automated Evaluation Framework for Retrieval-Augmented Generation Systems** \
 *Jon Saad-Falcon, Omar Khattab, Christopher Potts, Matei Zaharia* \
 arXiv - Nov 2023. [[Paper](https://arxiv.org/abs/2311.09476)] [[Github](https://github.com/stanford-futuredata/ares)]
@@ -281,6 +289,10 @@ IJCESEN 2026. [[Paper](https://doi.org/10.22399/ijcesen.4869)][[Github](https://
 
 
 ## RAG Optimization
+
+**Annotation-Free Reinforcement Learning Query Rewriting via Verifiable Search Reward** \
+*Sungguk Cha, DongWook Kim, Taeseung Hahn, Mintae Kim, Youngsub Han, Byoung-Ki Jeon* \
+arXiv - Jul 2025 [[Paper](https://arxiv.org/abs/2507.23242)]
 
 **Learning to Filter Context for Retrieval-Augmented Generation** \
 *Zhiruo Wang, Jun Araki, Zhengbao Jiang, Md Rizwan Parvez, Graham Neubig* \
