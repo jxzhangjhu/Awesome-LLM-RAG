@@ -317,6 +317,10 @@ arXiv - Oct 2023. [[Paper](https://arxiv.org/abs/2310.16146v1)]
 *Sheshera Mysore, Zhuoran Lu, Mengting Wan, Longqi Yang, Steve Menezes, Tina Baghaee, Emmanuel Barajas Gonzalez, Jennifer Neville, Tara Safavi* \
 arXiv - Nov 2023. [[Paper](https://arxiv.org/abs/2311.09180)] 
 
+**ScholarCopilot: Training Large Language Models for Academic Writing with Accurate Citations** \
+*Yubo Wang, Xueguang Ma, Ping Nie, Huaye Zeng, Zhiheng Lyu, Yuxuan Zhang, Benjamin Schneider, Yi Lu, Xiang Yue, Wenhu Chen* \
+COLM 2025 - Apr 2025 [[Paper](https://arxiv.org/abs/2504.00824)] [[Code](https://github.com/TIGER-AI-Lab/ScholarCopilot)]
+
 
 
 ## RAG for Missing Modalities
