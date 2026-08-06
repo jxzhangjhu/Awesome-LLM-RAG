@@ -228,6 +228,8 @@ EMNLP 2023 - Oct 2023 [[Paper](https://arxiv.org/abs/2310.06816?ref=upstract.com
 *Michael Günther, Jackmin Ong, Isabelle Mohr, Alaeddine Abdessalem, Tanguy Abel, Mohammad Kalim Akram, Susana Guzman, Georgios Mastrapas, Saba Sturua, Bo Wang, Maximilian Werk, Nan Wang, Han Xiao* \
 arXiv - Oct 2023. [[Paper](https://arxiv.org/abs/2310.19923)][[Model](https://huggingface.co/jinaai/jina-embeddings-v2-small-en)] 
 
+**verbatim-citation-gate: Deterministic Verbatim Check for LLM Citations** \n*Palo Alto AI Research Lab* [[Github](https://github.com/Palo-Alto-AI-Research-Lab/verbatim-citation-gate)] - Checks whether a quoted span actually appears in the document the model cited, before any judge model runs. Zero model calls, no API keys, framework-agnostic; Unicode-aware normalization so non-Latin quotes are checked, not silently dropped. Returns found / misattributed / not_found and fails closed on malformed input. It verifies verbatim overlap only: it does not judge whether the cited passage supports the claim. MIT-licensed.
+
 **EmbedGuard: Cross-Layer Detection and Provenance Attestation for Adversarial Embedding Attacks in RAG Systems** \
 *Neeraj Patty* \
 IJCESEN 2026. [[Paper](https://doi.org/10.22399/ijcesen.4869)][[Github](https://github.com/neerazz/embedguard)] - MIT-licensed defense operating across embedding generation, retrieval, and generation layers with cryptographic provenance attestation.
