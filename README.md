@@ -243,6 +243,7 @@ Simulation of Conversational Intelligence in Chat, EACL 2024 [[Paper](https://ar
 - [Not Human Search](https://nothumansearch.ai) - Search engine and MCP server for discovering AI-native tools. 8,600+ sites indexed with agentic capability scoring. Useful for RAG pipelines that need to discover and integrate AI tools.
 - [Superhighway](https://superhighway.walls.sh) - Web search API for RAG pipelines and AI agents — live web search, news, images, scrape, and one-call deep research (search + read top pages). Pay per call via x402/USDC (no signup) or free API key. MCP-compatible: `npx -y superhighway-mcp`.
 - [Zoom Search](https://github.com/goofrey/zoom-search) - Open-source MCP search and evidence toolkit for RAG pipelines and AI agents, with query rewriting, multi-provider retrieval, cited answers, and quality, latency, and cost evaluation.
+- [RAG World](https://ragworld.org) - Open registry of 69 named RAG technologies, each mapped onto a 28-dimension configuration schema with compatibility constraints, and each carrying a maturity level derived from collected evidence by a deterministic rule. Published as JSON under CC BY 4.0, updated weekly, DOI 10.5281/zenodo.21943978.
 
 ## RAG Long-text and Memory
 
