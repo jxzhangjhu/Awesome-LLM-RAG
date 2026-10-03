@@ -270,7 +270,7 @@ arXiv - Oct 2023 [[Paper](https://arxiv.org/abs/2310.12150)]
 
 **Do Current Retrievers Cover All the Evidence? A Controlled Study of Conjunctive Cross-Page Retrieval** \
 *Sungguk Cha, DongWook Kim, Mintae Kim, Youngsub Han, Byoung-Ki Jeon, Sangyeob Lee* \
-arXiv - Jul 2026 [[Paper](https://arxiv.org/abs/2607.24165)]
+arXiv - Jul 2026 [[Paper](https://arxiv.org/abs/2607.24165)] [[Code](https://github.com/sunggukcha/n_clue)]
 
 **ARES: An Automated Evaluation Framework for Retrieval-Augmented Generation Systems** \
 *Jon Saad-Falcon, Omar Khattab, Christopher Potts, Matei Zaharia* \
