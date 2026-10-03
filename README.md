@@ -304,6 +304,11 @@ ACL 2023 - Dec 2022 [[Paper](https://arxiv.org/abs/2212.10511)][[Github](https:/
 
 ## RAG Application
 
+**TagPR: Tag-Guided Process Supervision for Personalization Reasoning in Large Language Models** \
+*Song Jin, Juntian Zhang, Ruyu Lyu, Yong Liu, Xun Zhang, Yufei Zhang, Fei Jiang, Guojun Yin, Wei Lin, Rui Yan* \
+EMNLP 2026 Main (arXiv first released Sep 2025). [[Paper](https://arxiv.org/abs/2509.23140)]
+
+
 **Deficiency of Large Language Models in Finance: An Empirical Examination of Hallucination** \
 *Haoqiang Kang, Xiao-Yang Liu* \
 arXiv - Nov 2023 [[Paper](https://arxiv.org/abs/2311.15548)] 
