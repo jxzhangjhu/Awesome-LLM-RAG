@@ -46,6 +46,7 @@ We strongly encourage the researchers that want to promote their fantastic work 
 - [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for Claude Code multi-agent orchestration with retrieval-augmented generation patterns. MIT licensed.
 - [CCHub](https://github.com/Moresl/cchub) - A desktop control panel for the Claude Code / Codex / Gemini CLI ecosystem. Manage MCP servers, config profiles, agent skills, CLAUDE.md, hooks, and workflow templates from a single Tauri app (Windows / macOS / Linux).
 - [ChunkTuner](https://github.com/shantanu-deshmukh/chunktuner) - Open-source Python/CLI/MCP tooling to benchmark chunking strategies for RAG and recommend configurations using retrieval metrics (optional RAGAS).
+- [CocoIndex](https://github.com/cocoindex-io/cocoindex) - Open-source ETL framework to build and continuously update RAG indexes (embeddings and knowledge graphs) from your data sources, with incremental processing that recomputes only what changed. Apache-2.0.
 
 ## Workshops and Tutorials
 - [Agent Shadow Brain](https://github.com/theihtisham/agent-shadow-brain) - Self-evolving AI coding intelligence with infinite memory (TurboQuant), genetic algorithm self-evolution, predictive bug detection, PageRank knowledge graphs, swarm intelligence, and adversarial defense.
@@ -126,6 +127,11 @@ DiamantAI - 2025 [[link](https://diamant-ai.com/rag-made-simple)]
 *Jiawei Chen, Hongyu Lin, Xianpei Han, Le Sun* \
 arXiv 2023. [[Paper](https://arxiv.org/abs/2309.01431)][[Github](https://github.com/chen700564/RGB)] \
 4 Sep 2023 
+
+**ESGenius: Benchmarking LLMs on Environmental, Social, and Governance (ESG) and Sustainability Knowledge** \
+*Chaoyue He, Xin Zhou, et al.* \
+EMNLP 2025. [[Paper](https://aclanthology.org/2025.emnlp-main.739/)][[Github](https://github.com/ANGEL-NTU/ESGenius)][[Dataset](https://huggingface.co/datasets/cy0307/ESGenius)] \
+2 Jun 2025 
 
 
  
@@ -216,6 +222,10 @@ AI21 Labs – Jan 2023 [[paper](https://uploads-ssl.webflow.com/60fd4503684b4665
 
 ## RAG Embeddings 
 
+**ReinPool: Reinforcement Learning Pooling Multi-Vector Embeddings for Retrieval System** \
+*Sungguk Cha, DongWook Kim, Mintae Kim, Youngsub Han, Byoung-Ki Jeon, Sangyeob Lee* \
+arXiv - Jan 2026 [[Paper](https://arxiv.org/abs/2601.07125)]
+
 **RegaVAE: A Retrieval-Augmented Gaussian Mixture Variational Auto-Encoder for Language Modeling** \
 *Jingcheng Deng, Liang Pang, Huawei Shen, Xueqi Cheng* \
 EMNLP 2023 - Oct 2023 [[Paper](https://arxiv.org/abs/2310.10567)][[Github](https://github.com/TrustedLLM/RegaVAE)] 
@@ -227,6 +237,8 @@ EMNLP 2023 - Oct 2023 [[Paper](https://arxiv.org/abs/2310.06816?ref=upstract.com
 **Jina Embeddings 2: 8192-Token General-Purpose Text Embeddings for Long Documents** \
 *Michael Günther, Jackmin Ong, Isabelle Mohr, Alaeddine Abdessalem, Tanguy Abel, Mohammad Kalim Akram, Susana Guzman, Georgios Mastrapas, Saba Sturua, Bo Wang, Maximilian Werk, Nan Wang, Han Xiao* \
 arXiv - Oct 2023. [[Paper](https://arxiv.org/abs/2310.19923)][[Model](https://huggingface.co/jinaai/jina-embeddings-v2-small-en)] 
+
+**verbatim-citation-gate: Deterministic Verbatim Check for LLM Citations** \n*Palo Alto AI Research Lab* [[Github](https://github.com/Palo-Alto-AI-Research-Lab/verbatim-citation-gate)] - Checks whether a quoted span actually appears in the document the model cited, before any judge model runs. Zero model calls, no API keys, framework-agnostic; Unicode-aware normalization so non-Latin quotes are checked, not silently dropped. Returns found / misattributed / not_found and fails closed on malformed input. It verifies verbatim overlap only: it does not judge whether the cited passage supports the claim. MIT-licensed.
 
 **EmbedGuard: Cross-Layer Detection and Provenance Attestation for Adversarial Embedding Attacks in RAG Systems** \
 *Neeraj Patty* \
@@ -244,6 +256,7 @@ Simulation of Conversational Intelligence in Chat, EACL 2024 [[Paper](https://ar
 - [Superhighway](https://superhighway.walls.sh) - Web search API for RAG pipelines and AI agents — live web search, news, images, scrape, and one-call deep research (search + read top pages). Pay per call via x402/USDC (no signup) or free API key. MCP-compatible: `npx -y superhighway-mcp`.
 - [Zoom Search](https://github.com/goofrey/zoom-search) - Open-source MCP search and evidence toolkit for RAG pipelines and AI agents, with query rewriting, multi-provider retrieval, cited answers, and quality, latency, and cost evaluation.
 - [RAG World](https://ragworld.org) - Open registry of 69 named RAG technologies, each mapped onto a 28-dimension configuration schema with compatibility constraints, and each carrying a maturity level derived from collected evidence by a deterministic rule. Published as JSON under CC BY 4.0, updated weekly, DOI 10.5281/zenodo.21943978.
+- [Stipple](https://www.stipple.sh) - Hosted MCP document-trust gate for RAG pipelines: forensic authenticity signals on ingested documents (risk bands + per-signal tamper evidence), grounded field extraction (missing values abstain as `not_found` rather than hallucinating), and AI-written-text detection. Filter tampered or synthetic sources before they enter the index. Free anonymous tier; [GitHub](https://github.com/Sketchjar/stipple-mcp).
 
 ## RAG Long-text and Memory
 
@@ -265,6 +278,10 @@ arXiv - Oct 2023 [[Paper](https://arxiv.org/abs/2310.12150)]
 
 ## RAG Evaluation
 
+**Do Current Retrievers Cover All the Evidence? A Controlled Study of Conjunctive Cross-Page Retrieval** \
+*Sungguk Cha, DongWook Kim, Mintae Kim, Youngsub Han, Byoung-Ki Jeon, Sangyeob Lee* \
+arXiv - Jul 2026 [[Paper](https://arxiv.org/abs/2607.24165)] [[Code](https://github.com/sunggukcha/n_clue)]
+
 **ARES: An Automated Evaluation Framework for Retrieval-Augmented Generation Systems** \
 *Jon Saad-Falcon, Omar Khattab, Christopher Potts, Matei Zaharia* \
 arXiv - Nov 2023. [[Paper](https://arxiv.org/abs/2311.09476)] [[Github](https://github.com/stanford-futuredata/ares)]
@@ -282,6 +299,10 @@ IJCESEN 2026. [[Paper](https://doi.org/10.22399/ijcesen.4869)][[Github](https://
 
 
 ## RAG Optimization
+
+**Annotation-Free Reinforcement Learning Query Rewriting via Verifiable Search Reward** \
+*Sungguk Cha, DongWook Kim, Taeseung Hahn, Mintae Kim, Youngsub Han, Byoung-Ki Jeon* \
+arXiv - Jul 2025 [[Paper](https://arxiv.org/abs/2507.23242)]
 
 **Learning to Filter Context for Retrieval-Augmented Generation** \
 *Zhiruo Wang, Jun Araki, Zhengbao Jiang, Md Rizwan Parvez, Graham Neubig* \
@@ -305,6 +326,11 @@ ACL 2023 - Dec 2022 [[Paper](https://arxiv.org/abs/2212.10511)][[Github](https:/
 
 ## RAG Application
 
+**TagPR: Tag-Guided Process Supervision for Personalization Reasoning in Large Language Models** \
+*Song Jin, Juntian Zhang, Ruyu Lyu, Yong Liu, Xun Zhang, Yufei Zhang, Fei Jiang, Guojun Yin, Wei Lin, Rui Yan* \
+EMNLP 2026 Main (arXiv first released Sep 2025). [[Paper](https://arxiv.org/abs/2509.23140)]
+
+
 **Deficiency of Large Language Models in Finance: An Empirical Examination of Hallucination** \
 *Haoqiang Kang, Xiao-Yang Liu* \
 arXiv - Nov 2023 [[Paper](https://arxiv.org/abs/2311.15548)] 
@@ -317,6 +343,10 @@ arXiv - Oct 2023. [[Paper](https://arxiv.org/abs/2310.16146v1)]
 **PEARL: Personalizing Large Language Model Writing Assistants with Generation-Calibrated Retrievers** \
 *Sheshera Mysore, Zhuoran Lu, Mengting Wan, Longqi Yang, Steve Menezes, Tina Baghaee, Emmanuel Barajas Gonzalez, Jennifer Neville, Tara Safavi* \
 arXiv - Nov 2023. [[Paper](https://arxiv.org/abs/2311.09180)] 
+
+**ScholarCopilot: Training Large Language Models for Academic Writing with Accurate Citations** \
+*Yubo Wang, Xueguang Ma, Ping Nie, Huaye Zeng, Zhiheng Lyu, Yuxuan Zhang, Benjamin Schneider, Yi Lu, Xiang Yue, Wenhu Chen* \
+COLM 2025 - Apr 2025 [[Paper](https://arxiv.org/abs/2504.00824)] [[Code](https://github.com/TIGER-AI-Lab/ScholarCopilot)]
 
 
 
