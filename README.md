@@ -119,6 +119,10 @@ Manning Publications - May 2026 [[link](https://www.manning.com/books/building-l
 *Nir Diamant*  
 DiamantAI - 2025 [[link](https://diamant-ai.com/rag-made-simple)]
 
+**Understanding Modern LLM Systems: A Field Guide to RAG, Agents, and Beyond** (Free eBook)  
+*koe*  
+[[link](https://llmknowledge.pages.dev)]
+
 # Papers 
 
 ## Survey and Benchmark 
