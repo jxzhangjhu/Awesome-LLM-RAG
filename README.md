@@ -299,6 +299,10 @@ IJCESEN 2026. [[Paper](https://doi.org/10.22399/ijcesen.4869)][[Github](https://
 
 ## RAG Optimization
 
+**Hi-Q: Hierarchical Evidence-guided Query Refinement for Multi-Hop Question Answering** \
+*Jueun Kim, Sungho Park, Wook-Shin Han* \
+NeurIPS 2026 - Aug 2026 [[Paper](https://arxiv.org/abs/2608.30468)][[Github](https://github.com/juevn/Hi-Q)][[Project](https://hi-q-project.github.io/)]
+
 **Annotation-Free Reinforcement Learning Query Rewriting via Verifiable Search Reward** \
 *Sungguk Cha, DongWook Kim, Taeseung Hahn, Mintae Kim, Youngsub Han, Byoung-Ki Jeon* \
 arXiv - Jul 2025 [[Paper](https://arxiv.org/abs/2507.23242)]
