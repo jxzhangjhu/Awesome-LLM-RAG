@@ -307,6 +307,10 @@ NeurIPS 2026 - Aug 2026 [[Paper](https://arxiv.org/abs/2608.30468)][[Github](htt
 *Sungguk Cha, DongWook Kim, Taeseung Hahn, Mintae Kim, Youngsub Han, Byoung-Ki Jeon* \
 arXiv - Jul 2025 [[Paper](https://arxiv.org/abs/2507.23242)]
 
+**Enhancing Retrieval and Managing Retrieval: A Four-Module Synergy for Improved Quality and Efficiency in RAG Systems** \
+*Yunxiao Shi, Xing Zi, Zijing Shi, Haimin Zhang, Qiang Wu, Min Xu* \
+ECAI 2024 [[Paper](https://arxiv.org/abs/2407.10670)][[DOI](https://doi.org/10.3233/FAIA240748)][[Github](https://github.com/Ancientshi/ERM4)]
+
 **Learning to Filter Context for Retrieval-Augmented Generation** \
 *Zhiruo Wang, Jun Araki, Zhengbao Jiang, Md Rizwan Parvez, Graham Neubig* \
 arxiv- Nov 2023 [[Paper](https://arxiv.org/abs/2311.08377)][[Github](https://github.com/zorazrw/filco)] 
