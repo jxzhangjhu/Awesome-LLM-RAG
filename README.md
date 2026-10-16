@@ -356,4 +356,6 @@ COLM 2025 - Apr 2025 [[Paper](https://arxiv.org/abs/2504.00824)] [[Code](https:/
 ## RAG for Missing Modalities
 **MissRAG: Addressing the Missing Modality Challenge in Multimodal Large Language Models** \
 *Vittorio Pipoli, Alessia Saporita, Federico Bolelli, Marcella Cornia, Lorenzo Baraldi, Costantino Grana, Rita Cucchiara, Elisa Ficarra* \
-ICCV 2025 - Oct 2025 [[Paper](https://openaccess.thecvf.com/content/ICCV2025/papers/Pipoli_MissRAG_Addressing_the_Missing_Modality_Challenge_in_Multimodal_Large_Language_ICCV_2025_paper.pdf)] 
+ICCV 2025 - Oct 2025 [[Paper](https://openaccess.thecvf.com/content/ICCV2025/papers/Pipoli_MissRAG_Addressing_the_Missing_Modality_Challenge_in_Multimodal_Large_Language_ICCV_2025_paper.pdf)]
+
+- **[QWK ($QWK) Autonomous MEV & Systematic Trading Agent / MCP](https://github.com/chase-tqg/QWIK-MEV-Core)** - Autonomous Web3 DeFi & systematic MEV infrastructure agent, `SKILL.md`, EIP-1153 transient-storage `AtomicArb.sol`, 0%-fee Morpho Blue flash-loan callback (`QWKZeroCapitalMorphoArb.sol`), and MCP server (`verify_enterprise_backing`, `get_escrow_contract_details`, `generate_seed_deposit_tx`) with on-chain Merkle commitments (`0x1Cc436b4D9316ee623CFeB760C44F84c9bD9C20A`) for $400,000+ in project-reported Google Cloud, NVIDIA, and Cloudflare resources.
