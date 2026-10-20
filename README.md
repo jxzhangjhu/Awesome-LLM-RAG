@@ -143,6 +143,10 @@ EMNLP 2025. [[Paper](https://aclanthology.org/2025.emnlp-main.739/)][[Github](ht
 EMNLP 2023 - May 2023 [[Paper](https://arxiv.org/abs/2305.06983)][[Github](https://github.com/jzbjyb/flare)] \
  -->
 
+**ParamMute: Suppressing Knowledge-Critical FFNs for Faithful Retrieval-Augmented Generation** \
+*Pengcheng Huang, Zhenghao Liu, Yukun Yan, Haiyan Zhao, Xiaoyuan Yi, Hao Chen, Zhiyuan Liu, Maosong Sun, Tong Xiao, Ge Yu, Chenyan Xiong* \
+NeurIPS 2025 - Feb 2025 [[Paper](https://arxiv.org/abs/2502.15543)][[Github](https://github.com/OpenBMB/ParamMute)]
+
 **Improving Retrieval Augmented Language Model with Self-Reasoning** \
 Yuan Xia, Jingbo Zhou, Zhenhui Shi, Jun Chen, Haifeng Huang \  
 AAAI 25 – Mar 2025 [[paper](https://arxiv.org/abs/2407.19813)]
