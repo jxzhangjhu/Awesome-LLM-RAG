@@ -47,6 +47,7 @@ We strongly encourage the researchers that want to promote their fantastic work 
 - [CCHub](https://github.com/Moresl/cchub) - A desktop control panel for the Claude Code / Codex / Gemini CLI ecosystem. Manage MCP servers, config profiles, agent skills, CLAUDE.md, hooks, and workflow templates from a single Tauri app (Windows / macOS / Linux).
 - [ChunkTuner](https://github.com/shantanu-deshmukh/chunktuner) - Open-source Python/CLI/MCP tooling to benchmark chunking strategies for RAG and recommend configurations using retrieval metrics (optional RAGAS).
 - [CocoIndex](https://github.com/cocoindex-io/cocoindex) - Open-source ETL framework to build and continuously update RAG indexes (embeddings and knowledge graphs) from your data sources, with incremental processing that recomputes only what changed. Apache-2.0.
+- [LLMSlim](https://github.com/Thanatos9404/llmslim) - Open-source Python library that compresses retrieved documents to a token budget before generation, keeping the passages that answer the query; the default mode runs no model, and it ships compressors for LangChain, LlamaIndex and Haystack. MIT licensed.
 
 ## Workshops and Tutorials
 - [Agent Shadow Brain](https://github.com/theihtisham/agent-shadow-brain) - Self-evolving AI coding intelligence with infinite memory (TurboQuant), genetic algorithm self-evolution, predictive bug detection, PageRank knowledge graphs, swarm intelligence, and adversarial defense.
