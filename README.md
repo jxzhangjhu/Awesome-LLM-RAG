@@ -226,6 +226,10 @@ AI21 Labs – Jan 2023 [[paper](https://uploads-ssl.webflow.com/60fd4503684b4665
 
 ## RAG Embeddings 
 
+**FreeRet: MLLMs as Training-Free Retrievers** \
+*Yuhan Zhu, Xiangyu Zeng, Chenting Wang, Xinhao Li, Chunxu Liu, Yicheng Xu, Ziang Yan, Yi Wang, Limin Wang* \
+ICML 2026 [[Paper](https://arxiv.org/abs/2509.24621)][[Github](https://github.com/MCG-NJU/FreeRet)] - Training-free multimodal embeddings and retrieval with multiple-choice reranking; a retrieval component for multimodal pipelines.
+
 **ReinPool: Reinforcement Learning Pooling Multi-Vector Embeddings for Retrieval System** \
 *Sungguk Cha, DongWook Kim, Mintae Kim, Youngsub Han, Byoung-Ki Jeon, Sangyeob Lee* \
 arXiv - Jan 2026 [[Paper](https://arxiv.org/abs/2601.07125)]
