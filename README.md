@@ -231,6 +231,14 @@ AI21 Labs – Jan 2023 [[paper](https://uploads-ssl.webflow.com/60fd4503684b4665
 
 ## RAG Embeddings 
 
+**Correcting Mean Bias in Text Embeddings: A Refined Renormalization with Training-Free Improvements on MMTEB** \
+*Xingyu Ren, Youran Sun, Haoyu Liang* \
+arXiv - Nov 2025 [[Paper](https://arxiv.org/abs/2511.11041)] - Training-free correction for sentence embeddings. It projects each embedding off the shared mean direction and improves 29 of 38 MMTEB models.
+
+**Jailbreaking LLMs' Safeguard with Universal Magic Words for Text Embedding Models** \
+*Haoyu Liang, Youran Sun, Yunfeng Cai, Jun Zhu, Bo Zhang* \
+arXiv - Jan 2025 [[Paper](https://arxiv.org/abs/2501.18280)] - Uses the bias direction of text embeddings to find universal suffixes. The suffixes change embedding similarity and bypass embedding-based safeguards.
+
 **FreeRet: MLLMs as Training-Free Retrievers** \
 *Yuhan Zhu, Xiangyu Zeng, Chenting Wang, Xinhao Li, Chunxu Liu, Yicheng Xu, Ziang Yan, Yi Wang, Limin Wang* \
 ICML 2026 [[Paper](https://arxiv.org/abs/2509.24621)][[Github](https://github.com/MCG-NJU/FreeRet)] - Training-free multimodal embeddings and retrieval with multiple-choice reranking; a retrieval component for multimodal pipelines.
