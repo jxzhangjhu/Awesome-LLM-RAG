@@ -138,6 +138,10 @@ arXiv 2023. [[Paper](https://arxiv.org/abs/2309.01431)][[Github](https://github.
 EMNLP 2025. [[Paper](https://aclanthology.org/2025.emnlp-main.739/)][[Github](https://github.com/ANGEL-NTU/ESGenius)][[Dataset](https://huggingface.co/datasets/cy0307/ESGenius)] \
 2 Jun 2025 
 
+**MultiHaystack: Benchmarking Multimodal Retrieval and Reasoning over 40K Images, Videos, and Documents** \
+*Dannong Xu, Zhongyu Yang, Jun Chen, Yingfang Yuan, Ming Hu, Lei Sun, Luc Van Gool, Danda Pani Paudel, Chun-Mei Feng* \
+ECCV 2026. [[Paper](https://arxiv.org/abs/2603.05697)][[Github](https://github.com/Danielxu0208/MultiHaystack)][[Dataset](https://huggingface.co/datasets/DanielXu0208/MultiHaystack_Full)] \
+5 Mar 2026
 
  
 ## Retrieval-enhanced LLMs
