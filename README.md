@@ -286,6 +286,7 @@ Simulation of Conversational Intelligence in Chat, EACL 2024 [[Paper](https://ar
 - [Zoom Search](https://github.com/goofrey/zoom-search) - Open-source MCP search and evidence toolkit for RAG pipelines and AI agents, with query rewriting, multi-provider retrieval, cited answers, and quality, latency, and cost evaluation.
 - [RAG World](https://ragworld.org) - Open registry of 69 named RAG technologies, each mapped onto a 28-dimension configuration schema with compatibility constraints, and each carrying a maturity level derived from collected evidence by a deterministic rule. Published as JSON under CC BY 4.0, updated weekly, DOI 10.5281/zenodo.21943978.
 - [Stipple](https://www.stipple.sh) - Hosted MCP document-trust gate for RAG pipelines: forensic authenticity signals on ingested documents (risk bands + per-signal tamper evidence), grounded field extraction (missing values abstain as `not_found` rather than hallucinating), and AI-written-text detection. Filter tampered or synthetic sources before they enter the index. Free anonymous tier; [GitHub](https://github.com/Sketchjar/stipple-mcp).
+- [Mode VC Radar MCP](https://modevc.com/api/mcp) - Read-only venture capital & AI market research MCP server (39 empirical AI charts, 3,650 VC firms, SEC Form D filings, and 18 founder financial calculators; free Streamable HTTP at https://modevc.com/api/mcp).
 
 ## RAG Long-text and Memory
 
