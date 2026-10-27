@@ -48,6 +48,7 @@ We strongly encourage the researchers that want to promote their fantastic work 
 - [ChunkTuner](https://github.com/shantanu-deshmukh/chunktuner) - Open-source Python/CLI/MCP tooling to benchmark chunking strategies for RAG and recommend configurations using retrieval metrics (optional RAGAS).
 - [CocoIndex](https://github.com/cocoindex-io/cocoindex) - Open-source ETL framework to build and continuously update RAG indexes (embeddings and knowledge graphs) from your data sources, with incremental processing that recomputes only what changed. Apache-2.0.
 - [LLMSlim](https://github.com/Thanatos9404/llmslim) - Open-source Python library that compresses retrieved documents to a token budget before generation, keeping the passages that answer the query; the default mode runs no model, and it ships compressors for LangChain, LlamaIndex and Haystack. MIT licensed.
+- [RAG Engineer Interview Questions](https://github.com/landedjobs/rag-engineer-interview-questions) - 100 RAG engineer interview questions with answers and worked system designs, covering chunking, embeddings, re-ranking, evaluation, and production security.
 
 ## Workshops and Tutorials
 - [Agent Shadow Brain](https://github.com/theihtisham/agent-shadow-brain) - Self-evolving AI coding intelligence with infinite memory (TurboQuant), genetic algorithm self-evolution, predictive bug detection, PageRank knowledge graphs, swarm intelligence, and adversarial defense.
