@@ -307,6 +307,10 @@ arXiv - Oct 2023 [[Paper](https://arxiv.org/abs/2310.12150)]
 
 ## RAG Evaluation
 
+**Retrieval Augmented Generation Compositionality** \
+*Ido Levy, Segev Shlomov, Leshem Choshen* \
+arXiv - Oct 2026 [[Paper](https://arxiv.org/abs/2610.29722)] [[Code](https://github.com/dolev31/lasagna)]
+
 **Do Current Retrievers Cover All the Evidence? A Controlled Study of Conjunctive Cross-Page Retrieval** \
 *Sungguk Cha, DongWook Kim, Mintae Kim, Youngsub Han, Byoung-Ki Jeon, Sangyeob Lee* \
 arXiv - Jul 2026 [[Paper](https://arxiv.org/abs/2607.24165)] [[Code](https://github.com/sunggukcha/n_clue)]
