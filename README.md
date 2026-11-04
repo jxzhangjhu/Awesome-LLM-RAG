@@ -49,6 +49,7 @@ We strongly encourage the researchers that want to promote their fantastic work 
 - [CocoIndex](https://github.com/cocoindex-io/cocoindex) - Open-source ETL framework to build and continuously update RAG indexes (embeddings and knowledge graphs) from your data sources, with incremental processing that recomputes only what changed. Apache-2.0.
 - [LLMSlim](https://github.com/Thanatos9404/llmslim) - Open-source Python library that compresses retrieved documents to a token budget before generation, keeping the passages that answer the query; the default mode runs no model, and it ships compressors for LangChain, LlamaIndex and Haystack. MIT licensed.
 - [RAG Engineer Interview Questions](https://github.com/landedjobs/rag-engineer-interview-questions) - 100 RAG engineer interview questions with answers and worked system designs, covering chunking, embeddings, re-ranking, evaluation, and production security.
+- [poincare-memory](https://github.com/dhruvmojila/poincare-memory) - Hierarchy-aware, time-aware memory for LLM agents and RAG on the Poincaré ball: structural retrieval (subtree, ancestors, entailment cones), temporal decay policies and an interactive inspector. NumPy-only, runs offline; reference implementation of an IEEE ICBDML 2026 paper.
 
 ## Workshops and Tutorials
 - [Agent Shadow Brain](https://github.com/theihtisham/agent-shadow-brain) - Self-evolving AI coding intelligence with infinite memory (TurboQuant), genetic algorithm self-evolution, predictive bug detection, PageRank knowledge graphs, swarm intelligence, and adversarial defense.
@@ -289,6 +290,10 @@ Simulation of Conversational Intelligence in Chat, EACL 2024 [[Paper](https://ar
 - [Stipple](https://www.stipple.sh) - Hosted MCP document-trust gate for RAG pipelines: forensic authenticity signals on ingested documents (risk bands + per-signal tamper evidence), grounded field extraction (missing values abstain as `not_found` rather than hallucinating), and AI-written-text detection. Filter tampered or synthetic sources before they enter the index. Free anonymous tier; [GitHub](https://github.com/Sketchjar/stipple-mcp).
 
 ## RAG Long-text and Memory
+
+**LLM Orchestration with Geometry-Aware Memory** \
+*Dhruv Mojila* \
+ICBDML 2026 - Feb 2026 [[paper](https://doi.org/10.1109/ICBDML68582.2026.11544690)] [[GitHub](https://github.com/dhruvmojila/poincare-memory)]
 
 **ComoRAG: A Cognitive-Inspired Memory-Organized RAG for Stateful Long Narrative Reasoning** \                    
 *Juyuan Wang, Rongchen Zhao, Wei Wei, Yufeng Wang, Mo Yu, Jie Zhou, Jin Xu, Liyan Xu* \                            
