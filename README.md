@@ -158,11 +158,11 @@ EMNLP 2023 - May 2023 [[Paper](https://arxiv.org/abs/2305.06983)][[Github](https
 
 **SPARK: Adaptive Parametric Knowledge Participation for Faithful Retrieval-Augmented Generation** \
 *Ruochang Li, Pengcheng Huang, Zhenghao Liu, Yukun Yan, Huiyuan Xie, Yu Gu, Ge Yu, Maosong Sun* \
-arXiv - Jun 2026 [[Paper](https://arxiv.org/abs/2606.27786)][[Github](https://github.com/OpenBMB/SHIFT)]
+arXiv - Jun 2026 [[Paper](https://arxiv.org/abs/2606.27786)][[Github](https://github.com/OpenBMB/SPARK)]
 
 **ParamMute: Suppressing Knowledge-Critical FFNs for Faithful Retrieval-Augmented Generation** \
 *Pengcheng Huang, Zhenghao Liu, Yukun Yan, Haiyan Zhao, Xiaoyuan Yi, Hao Chen, Zhiyuan Liu, Maosong Sun, Tong Xiao, Ge Yu, Chenyan Xiong* \
-NeurIPS 2025 - Feb 2025 [[Paper](https://arxiv.org/abs/2502.15543)][[Github](https://github.com/OpenBMB/ParamMute)]
+NeurIPS 2025 - Feb 2025 [[Paper](https://proceedings.neurips.cc/paper_files/paper/2025/hash/90d1e515d74686ad148b469a3cecbbaa-Abstract-Conference.html)][[arXiv](https://arxiv.org/abs/2502.15543)][[Github](https://github.com/OpenBMB/ParamMute)]
 
 **Improving Retrieval Augmented Language Model with Self-Reasoning** \
 Yuan Xia, Jingbo Zhou, Zhenhui Shi, Jun Chen, Haifeng Huang \  
